@@ -1,2 +1,19 @@
-# ikun-music-player
-这是一个基于vue3框架+网易云音乐api开发的音乐播放器，实现了登录+个人中心+主页轮播/歌单+歌单列表+歌曲在线播放+歌词滚动显示+上下曲暂停播放+搜索功能
+# ikun-music
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
